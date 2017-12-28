@@ -7,5 +7,6 @@
 import fool
 
 text='本次冬令营选拔了32人组成国家集训队'
+text2='12345'
 print(fool.cut(text=text))
 print('successful!')
